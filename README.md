@@ -34,8 +34,9 @@ Você pode assistir a uma demonstração do projeto [neste vídeo do YouTube](ht
 
 1. Clone este repositório.
 2. Instale as bibliotecas necessárias: `pip install google-generativeai termcolor pyfiglet`
-3. Execute o script `python seu_script.py`.
-4. Siga as instruções no terminal para iniciar a aventura!
+3. Adicione sua KEY:
+4. Execute o script `python seu_script.py`.
+5. Siga as instruções no terminal para iniciar a aventura!
 
 ## Licença
 
